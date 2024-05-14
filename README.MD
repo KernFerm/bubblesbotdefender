@@ -27,3 +27,8 @@ coming soon to the public still testing faze
 **!protect** <channel>: Activates channel protection mode, enabling the bot to monitor and moderate the specified channel.
 
 **!removeBBD** <channel>: Removes the bot from the specified channel.
+
+
+### Contact
+   
+Bubbles The Dev 📧 The List -> kernferm@gmail.com
