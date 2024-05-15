@@ -1,6 +1,6 @@
 coming soon to the public still testing faze
 
-### Bubbles Bot Defender: Twitch Chat Moderator 🤖🛡️
+### 🤖🛡️ Bubbles Bot Defender: Twitch Chat Moderator 🤖🛡️
 
 
 ### About ℹ️
