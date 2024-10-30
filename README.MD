@@ -1,30 +1,49 @@
-coming soon to the public still testing faze
+# BubblesBotDefender Twitch Commands Guide
 
-### 🤖🛡️ Bubbles Bot Defender: Twitch Chat Moderator 🤖🛡️
+Welcome to **BubblesBotDefender**, built exclusively for our Twitch streamers! This bot provides powerful features to streamline your commands and moderation needs, all within Twitch—no need for external bots like Nightbot, StreamElements, or Streamlabs.
+
+## Key Features
+
+- **Custom Commands**: Want specific commands? Just let me know, and I can add them directly! This bot handles all your custom commands in one place.
+- **Auto Botting Protection**: Automatically detects and manages unwanted bot accounts, keeping our Twitch chat safe and spam-free.
+- **Auto Mod Mode**: Enables advanced moderation tools to handle inappropriate content, catch spam, and maintain chat quality automatically.
+- **User-Defined Commands**: Set up your own exclusive commands for interactive and engaging streams, customized just for you.
+- **Additional Cool Features**: New features are always in development to make your streaming and community management even smoother.
+
+## Quick Start: Activating BubblesBotDefender
+
+To start using BubblesBotDefender in mod mode on Twitch, type the following command in chat:
+
+```
+/mod bubblesbotdefender
+```
+
+## How to Get BubblesBotDefender
+To obtain BubblesBotDefender for your Twitch channel, ensure you are a member of the fnbubbles420 Discord server. Once you are on the server:
+
+- Navigate to the bubblesbotdefender-help channel.
+Custom Commands
+If you have any custom command requests or suggestions, feel free to reach out! BubblesBotDefender is here to enhance your Twitch streaming experience and make managing your chat effortless.
+
+🌟 Enjoy seamless automation and moderation with BubblesBotDefender on Twitch! 🌟
+
+Contact
+Email: bubblesthedev@fnbubbles420.org
+Send me an email with the custom commands you'd like for your channel. Let me know when you’ve activated BubblesBotDefender using the /mod command.
 
 
-### About ℹ️
-
-`Bubbles Bot Defender is a Twitch chat moderator bot designed to help streamers manage and maintain a positive chat environment. With its advanced moderation features, Bubbles Bot Defender helps keep your Twitch channel safe from spam, bot accounts, and unwanted activity.`
-
-### Features 🚀
-
-**Bot Detection:** 
-- Bubbles Bot Defender utilizes an expert-level bot detection algorithm to identify and remove bot accounts from your Twitch chat.
-
-**Spam Protection:** 
-- The bot automatically detects and filters out spam messages, ensuring a clutter-free chat experience for your viewers.
-
-**Channel Protection:** 
-- Streamers can use the bot to protect their channel from unwanted activity and ensure a respectful community atmosphere.
-
-### Commands 🤖
-
-- Bubbles Bot Defender responds to the following commands:
-
-- **!hello** greets the user who does the command
 
 
-### Contact
-   
-Bubbles The Dev 📧 The List -> bubblesthedev@fnbubbles420.org
+
+
+
+
+
+
+
+
+
+
+
+
+
