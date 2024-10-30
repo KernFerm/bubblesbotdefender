@@ -1,0 +1,10 @@
+# Ignore everything
+*
+
+# But not these files...
+!LICENSE.md
+!bubblesbotdefender.png
+!readme.md
+
+# Also not ignore .gitignore file
+!.gitignore
