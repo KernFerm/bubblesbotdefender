@@ -17,6 +17,9 @@ Welcome to **BubblesBotDefender**, built exclusively for our Twitch streamers! T
 - **Express.js**: This lightweight framework helps manage the bot's server and API endpoints with efficiency.
 - ***Unknown*** - unknown location where bot is being hosted
 
+## Screenshot
+![Pic](https://github.com/KernFerm/bubblesbotdefender/blob/main/screenshot.png)
+
 ## Discord Invite
 - **[Server Invite Link - Click to Join](https://discord.gg/HEq9FB85M2)**
 
