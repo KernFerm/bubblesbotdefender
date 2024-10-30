@@ -27,4 +27,4 @@ coming soon to the public still testing faze
 
 ### Contact
    
-Bubbles The Dev 📧 The List -> kernferm@gmail.com
+Bubbles The Dev 📧 The List -> bubblesthedev@fnbubbles420.org
