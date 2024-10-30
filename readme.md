@@ -15,7 +15,7 @@ Welcome to **BubblesBotDefender**, built exclusively for our Twitch streamers! T
 - **Node.js**: For a robust server-side platform that handles asynchronous events with ease, making it perfect for real-time chat applications like Twitch bots.
 - **TMI.js (Twitch Messaging Interface)**: A powerful library specifically designed to interact with Twitch's chat and API functionalities.
 - **Express.js**: This lightweight framework helps manage the bot's server and API endpoints with efficiency.
-- **Heroku**: For hosting the bot, ensuring it is always online and available during your streams without requiring your local machine to run it.
+- ***Unknown*** - unknown location where bot is being hosted
 
 ## Discord Invite
 - **[Server Invite Link - Click to Join](https://discord.gg/HEq9FB85M2)**
