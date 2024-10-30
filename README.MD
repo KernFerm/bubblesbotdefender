@@ -22,11 +22,7 @@ coming soon to the public still testing faze
 
 - Bubbles Bot Defender responds to the following commands:
 
-**!BBD** <channel>: Instructs the bot to join the specified Twitch channel.
-
-**!protect** <channel>: Activates channel protection mode, enabling the bot to monitor and moderate the specified channel.
-
-**!removeBBD** <channel>: Removes the bot from the specified channel.
+- **!hello** greets the user who does the command
 
 
 ### Contact
