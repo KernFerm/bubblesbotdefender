@@ -39,7 +39,7 @@ To obtain BubblesBotDefender for your Twitch channel, ensure you are a member of
 
 ## Custom Commands
 
-- If you have any custom command requests or suggestions, please feel free to reach out! BubblesBotDefender is here to enhance your Twitch streaming experience and make managing your chat effortless.
+- ***If you have any custom command requests or suggestions, please feel free to reach out! BubblesBotDefender is here to enhance your Twitch streaming experience and make managing your chat effortless.***
 
 ---
 ### 🌟 Enjoy seamless automation and moderation with BubblesBotDefender on Twitch! 🌟
