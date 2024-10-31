@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="" alt="Banner" width="400"/>
+</p>
+
+
 # BubblesBotDefender Twitch Commands Guide
 
 Welcome to **BubblesBotDefender**, built exclusively for our Twitch streamers! This bot leverages powerful programming and Twitch's API to streamline your commands and moderation needs directly within Twitch—eliminating the need for external bots like `Nightbot`, `StreamElements`, or `Streamlabs`.
