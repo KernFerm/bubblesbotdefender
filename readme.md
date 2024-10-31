@@ -33,7 +33,7 @@ To start using **BubblesBotDefender** in mod mode on Twitch, simply type the fol
 
 ## How to Get BubblesBotDefender
 
-To obtain BubblesBotDefender for your Twitch channel, ensure you are a member of the [fnbubbles420 org Discord server](https://discord.gg/HEq9FB85M2). Once you are on the server:
+To obtain BubblesBotDefender for your Twitch channel, ensure you are a member of the [fnbubbles420 org Discord server](https://discord.gg/HEq9FB85M2). Once you are in the server:
 
 - Navigate to the `#bubblesbotdefender-help` channel to request setup or support.
 
