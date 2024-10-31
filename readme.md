@@ -18,7 +18,7 @@ Welcome to **BubblesBotDefender**, built exclusively for our Twitch streamers! T
 - ***Unknown*** - unknown location where bot is being hosted
 
 ## Screenshot
-![Pic](https://github.com/KernFerm/bubblesbotdefender/blob/main/screenshot.png)
+![Pic](https://github.com/FNBUBBLES420-ORG/bubblesbotdefender/blob/main/screenshot.png)
 
 ## Discord Invite
 - **[Server Invite Link - Click to Join](https://discord.gg/HEq9FB85M2)**
