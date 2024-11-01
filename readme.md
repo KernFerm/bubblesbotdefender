@@ -1,9 +1,7 @@
 <p align="center">
   <img src="https://github.com/FNBUBBLES420-ORG/Bubbles-Bot-Defender/blob/main/bubbles-bot-defender.png" alt="Banner" width="365"/>
 </p>
-<p align="center">
-  <img src="https://github.com/FNBUBBLES420-ORG/Bubbles-Bot-Defender/blob/main/banner-bubbles-bot-defender.png" alt="Banner" width="400"/>
-</p>
+
 
 # BubblesBotDefender Twitch Commands Guide
 
