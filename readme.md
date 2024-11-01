@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/FNBUBBLES420-ORG/Bubbles-Bot-Defender/blob/main/bubbles-bot-defender.png" alt="Banner" width="400"/>
+  <img src="https://github.com/FNBUBBLES420-ORG/Bubbles-Bot-Defender/blob/main/bubbles-bot-defender.png" alt="Banner" width="365"/>
 </p>
 <p align="center">
   <img src="" alt="Banner" width="400"/>
